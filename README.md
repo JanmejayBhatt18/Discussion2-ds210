@@ -12,4 +12,5 @@ Team1
 
 ## Members
 
-- Vivaan_
+
+- Janmejay Bhatt, Vivaan Suri

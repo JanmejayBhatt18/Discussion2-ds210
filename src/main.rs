@@ -11,7 +11,7 @@ fn main() {
     println!("Crew roster:");
 
     // ROSTER: replace the line below with one for yourself.
-    println!("  (- Vivaan Suri)");
+    println!("  - Janmejay Bhatt, Vivaan Suri");
 
     println!();
     println!("Motto: {}", MOTTO);
